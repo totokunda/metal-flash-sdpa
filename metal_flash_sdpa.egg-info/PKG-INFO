@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: metal-flash-sdpa
+Version: 0.1.2
+Summary: Optimized SDPA kernels inspired by Flash Attention for Metal (MPS).
+Requires-Python: >=3.9
+Dynamic: requires-python
+Dynamic: summary

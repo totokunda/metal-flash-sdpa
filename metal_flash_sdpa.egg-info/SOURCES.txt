@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+metal_flash_sdpa/__init__.py
+metal_flash_sdpa/_custom_ops.py
+metal_flash_sdpa/_ops.py
+metal_flash_sdpa.egg-info/PKG-INFO
+metal_flash_sdpa.egg-info/SOURCES.txt
+metal_flash_sdpa.egg-info/dependency_links.txt
+metal_flash_sdpa.egg-info/top_level.txt
+sdpa-metal/scaled_dot_product_attention.mm
+tests/test_flash_attention.py
+torch-ext/wheel_binding.cpp
