@@ -9,6 +9,7 @@ tags:
 Optimized SDPA kernels inspired by Flash Attention for Metal.
 
 Some components of these kernels are from [mlx](https://github.com/ml-explore/mlx).
+Credit to [huggingface](https://huggingface.co/kernels-community/metal-flash-sdpa) for the original implementation.
 
 ## Supported Features
 
